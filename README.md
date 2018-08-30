@@ -1,4 +1,4 @@
-# CEG4110 Fall 2017 Project: SeeFood
+# CEG4110 Fall 2018 Project: SeeFood
 You see food, I see food... can your [computer, Web page, phone] see food? 
 
 It better if you want to get an A in CEG 4110 this semester! 
